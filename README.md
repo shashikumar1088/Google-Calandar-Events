@@ -1,6 +1,4 @@
-# Project Title
-
-Google Calandar Events Syncing Locally
+# Google Calandar Events Syncing Locally
 
 ## Introduction
 
