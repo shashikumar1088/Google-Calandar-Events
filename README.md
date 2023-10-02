@@ -45,15 +45,15 @@ Disclaimer: Keep in mind that interacting with external services like Google Cal
 ## Envoirment Activation
 - If you haven't created a virtual environment yet, you might want to do that first. Here's a recap of the steps:
     # On Windows
-    python -m venv venv
+       python -m venv venv
 
     # On macOS/Linux
-    python3 -m venv venv
+       python3 -m venv venv
 
 - Activate the virtual environment:
- # On Windows:
-   venv\Scripts\activate
- # On macOS/Linux
-   source venv/bin/activate
+    # On Windows:
+      venv\Scripts\activate
+    # On macOS/Linux
+      source venv/bin/activate
 
 
