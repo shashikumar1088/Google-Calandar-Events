@@ -1,0 +1,12 @@
+# Google Credential Keys
+credentials.json
+token.json
+
+# DB file which stores calandar events
+db/GC.db
+
+# test files
+test.py
+
+# Cache
+__pycache__/
