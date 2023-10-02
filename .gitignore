@@ -10,3 +10,6 @@ test.py
 
 # Cache
 __pycache__/
+
+# vs code files
+.vscode/
